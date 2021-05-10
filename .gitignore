@@ -1,0 +1,11 @@
+# Complied Bytecode
+*.class
+
+# intelliJ files
+*.iml
+**.idea
+
+# Package Files 
+*.jar
+*.war
+
